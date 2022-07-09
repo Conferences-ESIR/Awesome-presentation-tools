@@ -1,2 +1,3 @@
 # Awesome-presentation-tools
-[https://sli.dev/]
+## Slides generator
+- [slidev](https://sli.dev/) : Slidev aims to provide the flexibility and interactivity for developers to make their presentations even more interesting, expressive, and attractive by using the tools and technologies they are already familiar with. It's Markdown-based, Themable, Developer Friendly, Fast, Interactive & Expressive...
